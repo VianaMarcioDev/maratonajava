@@ -44,7 +44,17 @@ public class Aula03Operadores {
 
          */
 
+        /*
 
+        = -> atribuição
+        +=
+        -=
+        *=
+        /=
+        %=
 
+        ++ -> incremento
+        -- -> decremento
+         */
     }
 }
